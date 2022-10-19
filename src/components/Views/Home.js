@@ -3,6 +3,7 @@ import About from '../Home/About';
 import Faq from '../Home/Faq';
 import Feature from '../Home/Feature';
 import Hero from '../Home/Hero';
+import Pricing from '../Home/Pricing';
 import Works from '../Home/Works';
 
 const Home = () => {
@@ -13,6 +14,7 @@ const Home = () => {
             <Feature></Feature>
             <Works></Works>
             <Faq></Faq>
+            <Pricing></Pricing>
         </div>
     );
 };
